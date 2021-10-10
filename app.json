@@ -7,7 +7,7 @@
       "bot"
     ],
     "env": {
-      "API_ID": {
+      "APP_ID": {
         "description": "Your API ID from https://my.telegram.org",
         "required": true
       },
@@ -19,7 +19,7 @@
         "description": "Get Pyrogram string session from https://replit.com/@AnjanaMadu/GenerateStringSession",
         "required": true
       },
-      "ADMINS": {
+      "AUTH_USERS": {
         "description": "Add your telegram ID. (Then others can't use your bot. Seperate by spaces)",
         "required": true
       },
