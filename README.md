@@ -24,14 +24,8 @@
 - Pyrogram [String Session](https://github.com/SpEcHiDe/SessionMakerBot) of an user account.
 
 
-## Deploy your Own Bot
-
-### Railway
-<p><a href="https://tx.me/googleimgbot?start=playastream_railwayapp"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
-
-
 ### Heroku
-<p><a href="https://tx.me/googleimgbot?start=playastream_heroku"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
 ## any GNU/Linux system [**RECOMMENDED**]
