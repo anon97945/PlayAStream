@@ -3,6 +3,6 @@ git+https://github.com/pyrogram/pyrogram@master
 TgCrypto==1.2.2
 
 python-dotenv>=0.10
-
+youtube-dl
 # pytgcalls
 pytgcalls==3.0.0.dev19
